@@ -1,4 +1,4 @@
-# walmart-database
+# Walmart-Database-Schema-SQL
 The project is a Walmart hypothetical database that supports 15 various business functions.
 
 The repository features three files:
