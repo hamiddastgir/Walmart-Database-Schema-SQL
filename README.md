@@ -6,4 +6,6 @@ The repository features three files:
 2. An inserts.sql file that enters a randomized fake sample of 20 rows for each table/business function. For the sake of maintaining context, the 20 rows were edited to be as relevant as possible
 3. A functions.sql file that hosts 2 queries per table to show how the database supports the 15 business functions
 
+![ERD Diagram:]https://github.com/hamiddastgir/Walmart-Database-Schema-SQL/blob/main/ERD%20diagram.png
+
 This project was done by Muhammad Hamid Ahmed Dastgir (mdastgir@stevens.edu). For any queries, please feel free to contact me
